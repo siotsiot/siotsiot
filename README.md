@@ -15,6 +15,7 @@ MI2RL 겨울 인턴에서는 Mask R-CNN 기반 흉부 X-ray 폐 분할 프로젝
 **Undergraduate Research Student / Lab Leader**
 
 ### [울산대학교 의과대학·서울아산병원 의료영상지능실현연구실(MI2RL)](https://www.mi2rl.co/)
+- 2026.06 - Present
 - 2025.12 - 2026.01  
 **Winter Intern**
 
